@@ -2,6 +2,7 @@
 _Business Analytics • ML • NLP • Dashboards • IOT_
 
 ## Get to Know Me
+
 - I turn boring tasks into AI assisted applications and messy data into crisp insights 
 - Currently building FlavourFriend, a kitchen buddy that helps turn cooking into less of a chore
 - Dream career: put all this tinkering to good use and work on projects that make a difference beyond KPIs
