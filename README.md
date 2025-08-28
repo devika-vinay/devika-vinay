@@ -13,14 +13,14 @@ _ML • NLP • IoT • Business Analytics • Dashboards_
 
 ## 🚀 Featured Projects  
 
-### 1. **[Carbon Neutrality Navigator](https://github.com/devika-vinay/CarbonNeutralityNavigator.git)** 🌍  
+### 1. **[Carbon Neutrality Navigator](https://github.com/devika-vinay/CarbonNeutralityNavigator.git)**   
 Explored how provincial emission reduction commitments align with Canada’s 2050 carbon neutrality goal.  
 - Cleaned and analyzed federal + provincial GHG datasets.  
 - Identified sectoral gaps and opportunities for policy alignment.  
 
 ---
 
-### 2. **FlavourFriend** 🍲  
+### 2. **[FlavourFriend](https://github.com/devika-vinay/FlavourFriend.git)**
 An AI kitchen sidekick that blends data science with culinary creativity.  
 - **Cuisine Fusion:** mixes cuisines using TF-IDF similarity (no odd combos like paneer tiramisu).  
 - **Lost Recipe Reconstruction:** rebuilds recipes from partial titles, ingredients, or scanned notes.  
