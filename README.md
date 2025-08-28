@@ -52,7 +52,7 @@ Assessed campaign effectiveness using a large-scale marketing dataset.
 
 ---
 
-### 6. **College Administration App** 🎓  
+### 6. **[College Administration App](https://github.com/devika-vinay/CollegeAdministration.git)** 🎓  
 A Python GUI application for academic record management.  
 - Upload student files with validation for missing data.  
 - Auto-calculate GPA & flag college eligibility.  
