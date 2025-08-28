@@ -36,7 +36,7 @@ Led data/AI tasks for a multi-country logistics pilot in Latin America.
 
 ---
 
-### 4. **Telecom Customer Insights** 📱  
+### 4. **[Telecom Customer Insights](https://github.com/devika-vinay/TelecomInsights.git)** 📱  
 Analyzed telecom customer data to uncover call-drop patterns and usage trends.  
 - Visualized relationships between **postal code, handset model, and tariff plan**.  
 - Identified high-risk groups experiencing significant call drops.  
@@ -44,7 +44,7 @@ Analyzed telecom customer data to uncover call-drop patterns and usage trends.
 
 ---
 
-### 5. **Marketing Performance Analytics** 📊  
+### 5. **[Marketing Performance Analytics](https://github.com/devika-vinay/MarketingPerformance.git)** 📊  
 Assessed campaign effectiveness using a large-scale marketing dataset.  
 - Performance trends across time, device type, and network.  
 - KPI evaluation: CTR, CPM, and spend-to-output efficiency.  
