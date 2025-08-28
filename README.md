@@ -13,7 +13,7 @@ _ML • NLP • IoT • Business Analytics • Dashboards_
 
 ## 🚀 Featured Projects  
 
-### 1. **Carbon Neutrality Navigator** 🌍  
+### 1. **[Carbon Neutrality Navigator](https://github.com/devika-vinay/CarbonNeutralityNavigator.git)** 🌍  
 Explored how provincial emission reduction commitments align with Canada’s 2050 carbon neutrality goal.  
 - Cleaned and analyzed federal + provincial GHG datasets.  
 - Identified sectoral gaps and opportunities for policy alignment.  
