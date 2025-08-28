@@ -28,7 +28,7 @@ An AI kitchen sidekick that blends data science with culinary creativity.
 
 ---
 
-### 3. **GENESIS: Freight & Mobility Platform** 🚛  
+### 3. **[Freight Mover: Mobility Platform](https://github.com/devika-vinay/FreightMover)** 🚛  
 Led data/AI tasks for a multi-country logistics pilot in Latin America.  
 - Built reproducible geospatial ETL pipelines (GTFS + OSM).  
 - Simulated demand and containerized APIs.  
