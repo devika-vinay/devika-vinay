@@ -1,8 +1,6 @@
 # 👋 Hey there, I’m Devika!  
 _Business Analytics • ML • NLP • Dashboards • IOT_
 
----
-
 ## Get to Know Me
 - I turn boring tasks into AI assisted applications and messy data into crisp insights 
 - Currently building FlavourFriend, a kitchen buddy that helps turn cooking into less of a chore
@@ -42,4 +40,5 @@ Analyzed a large-scale marketing dataset to assess performance across devices, n
 ---
 ### 6. **College Administration App**  
 A lightweight Python GUI app for academic record management with file upload, missing data detection, flagging for college eligibility and reports with a single click  
+
 ---
