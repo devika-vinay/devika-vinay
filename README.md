@@ -1,45 +1,62 @@
 # 👋 Hey there, I’m Devika!  
-_Business Analytics • ML • NLP • Dashboards • IOT_
-
-## Get to Know Me
-
-- I turn boring tasks into AI assisted applications and messy data into crisp insights 
-- Currently building FlavourFriend, a kitchen buddy that helps turn cooking into less of a chore
-- Dream career: put all this tinkering to good use and work on projects that make a difference beyond KPIs
-- Tech stack: **Python, Pandas/PySpark, FastAPI, GeoPandas, Hugging Face, SQL, Docker, Java, Springboot, PostgreSQL**  
-- 💌 Let’s connect: [https://www.linkedin.com/in/devika-vinayarajan/](#) | [devika.leena@gmail.com](#)  
+_Business Analytics • ML • NLP • Dashboards • IoT_
 
 ---
 
-## Featured Projects
-
-### 1. **Carbon Neutrality Navigator**  
-An exploration of Canada’s federal 2050 carbon neutrality goal, comparing provincial targets vs. actual emission trends. Identified gaps, sectoral challenges, and policy levers for alignment.  
-
----
-
-### 2. **FlavourFriend**  
-A kitchen sidekick that fuses cuisines with TF-IDF similarity and reconstructs recipes with T5 transformers. Current features:  
-- **Cuisine fusion** (mix Italian + Indian, without weird combos like paneer tiramisu).  
-- **Lost recipe reconstruction** from partial titles, ingredients or handwritten notes.  
-More features cooking soon…
+## 📌 Get to Know Me
+- 🧩 I turn messy data into crisp insights and everyday problems into AI-assisted applications.  
+- 🍳 Currently building **FlavourFriend**, a kitchen buddy that makes cooking smarter (and less of a chore).  
+- 🎯 Dream career: applying analytics & AI to projects that create impact beyond KPIs.  
+- 🛠️ Tech stack: **Python, Pandas/PySpark, FastAPI, GeoPandas, Hugging Face, SQL, Docker, Java, Spring Boot, PostgreSQL**  
+- 💌 Let’s connect: [LinkedIn](https://www.linkedin.com/in/devika-vinayarajan/) | [Email](mailto:devika.leena@gmail.com)  
 
 ---
 
-### 3. **GENESIS: Freight & Mobility Platform**  
-Led data/AI tasks for a multi-country pilot in a community-focused, freight moving application based in Latin America. Built reproducible geospatial ETL pipelines, simulated demand, and containerized APIs leading building scalable infrastructure for routing and emissions tracking.  
+## 🚀 Featured Projects  
+
+### 1. **Carbon Neutrality Navigator** 🌍  
+Explored how provincial emission reduction commitments align with Canada’s 2050 carbon neutrality goal.  
+- Cleaned and analyzed federal + provincial GHG datasets.  
+- Identified sectoral gaps and opportunities for policy alignment.  
 
 ---
-### 4. **Telecom Customer Insights**
-Analyzed customer data from a mobile network to uncover patterns in call drops and usage with visualizations
+
+### 2. **FlavourFriend** 🍲  
+An AI kitchen sidekick that blends data science with culinary creativity.  
+- **Cuisine Fusion:** mixes cuisines using TF-IDF similarity (no odd combos like paneer tiramisu).  
+- **Lost Recipe Reconstruction:** rebuilds recipes from partial titles, ingredients, or scanned notes.  
+- Roadmap: mood-based cooking recs & OCR for generational recipe cards.  
 
 ---
 
-### 5. **Marketing Performance Analytics**
-Analyzed a large-scale marketing dataset to assess performance across devices, networks, and KPIs  
+### 3. **GENESIS: Freight & Mobility Platform** 🚛  
+Led data/AI tasks for a multi-country logistics pilot in Latin America.  
+- Built reproducible geospatial ETL pipelines (GTFS + OSM).  
+- Simulated demand and containerized APIs.  
+- Contributed to scalable routing + emissions tracking infrastructure.  
 
 ---
-### 6. **College Administration App**  
-A lightweight Python GUI app for academic record management with file upload, missing data detection, flagging for college eligibility and reports with a single click  
+
+### 4. **Telecom Customer Insights** 📱  
+Analyzed telecom customer data to uncover call-drop patterns and usage trends.  
+- Visualized relationships between **postal code, handset model, and tariff plan**.  
+- Identified high-risk groups experiencing significant call drops.  
+- Recommended targeted interventions to improve service quality.  
+
+---
+
+### 5. **Marketing Performance Analytics** 📊  
+Assessed campaign effectiveness using a large-scale marketing dataset.  
+- Performance trends across time, device type, and network.  
+- KPI evaluation: CTR, CPM, and spend-to-output efficiency.  
+- Provided recommendations for cost-efficient channel planning.  
+
+---
+
+### 6. **College Administration App** 🎓  
+A Python GUI application for academic record management.  
+- Upload student files with validation for missing data.  
+- Auto-calculate GPA & flag college eligibility.  
+- Generate reports and restart workflows in a single click.  
 
 ---
