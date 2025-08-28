@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Devika!  
-_Business Analytics • ML • NLP • Dashboards • IoT_
+_ML • NLP • IoT • Business Analytics • Dashboards_
 
 ---
 
