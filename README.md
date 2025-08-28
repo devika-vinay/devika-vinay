@@ -7,8 +7,6 @@ _ML • NLP • IoT • Business Analytics • Dashboards_
 - 🧩 I turn messy data into crisp insights and everyday problems into AI-assisted applications.  
 - 🍳 Currently building FlavourFriend, a kitchen buddy that makes cooking smarter (and less of a chore).  
 - 🎯 Dream career: tinker on projects that make an impact beyond KPIs  
-- 🛠️ Tech stack: **Python, Pandas/PySpark, FastAPI, GeoPandas, Hugging Face, SQL, Java, Spring Boot, PostgreSQL**
-- 🐋 DevOps: **Docker, Azure**
 - 💌 Let’s connect: [LinkedIn](https://www.linkedin.com/in/devika-vinayarajan/) | [Email](mailto:devika.leena@gmail.com)  
 
 ---
@@ -61,3 +59,16 @@ A Python GUI application for academic record management.
 - Generate reports and restart workflows in a single click.  
 
 ---
+
+## 🛠️ Tech Stacks & Skills  
+
+**Languages:** Python, SQL, Java, Go, Bash Scripting  
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, SPSS, PowerPoint  
+**Data Engineering & Databases:** Postgres, Databricks
+**Geospatial Analytics:** GeoPandas, Osmium, GTFS  
+**APIs & Automation:** REST APIs, CI/CD  
+**Cloud & DevOps:** Azure, Git, Docker
+**Backend Development:** Spring Boot, Microservices Architecture  
+**Tools & Collaboration:** Jira, Confluence, Agile/Scrum  
+**Concepts:** Statistical Analysis, ETL, Data Warehousing, Business Intelligence  
+**Soft Skills:** Project Leadership, Cross-Functional Collaboration, Technical Documentation  
