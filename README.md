@@ -72,3 +72,5 @@ A Python GUI application for academic record management.
 **Tools & Collaboration:** Jira, Confluence, Agile/Scrum  
 **Concepts:** Statistical Analysis, ETL, Data Warehousing, Business Intelligence  
 **Soft Skills:** Project Leadership, Cross-Functional Collaboration, Technical Documentation  
+
+---
