@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Devika 👋  
+_Data & AI • Geospatial • FastAPI • Docker • Analytics_
 
-<!--
-**devika-vinay/devika-vinay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎯 Goal: Data/AI roles in Toronto (Google dream team 💫)
+- 🧠 Interests: NLP for recipes, recommender systems, OCR, emissions analytics
+- 🧰 Stack: Python, FastAPI, Pandas/Spark, SQL, Docker, GeoPandas/OSM, TF-IDF, T5
+- 📫 Reach: [LinkedIn](#) • [Email](#)
 
-Here are some ideas to get you started:
+## Featured Projects
+- **Flavor Fusion (NLP)** — transformer-based recipe fusion + TF-IDF similarity for ingredient selection. _FastAPI demo, unit tests, examples._
+- **Lost Recipe Reconstruction** — T5 model reconstructing missing recipe steps from partial prompts; OCR pipeline for handwritten cards.
+- **Logistics Routing (GENESIS)** — reproducible geospatial ETL (GTFS/OSM), driver matching, synthetic demand generation, Dockerized.
+- **Kroger_CSD EDA** — deep-dive analytics (beyond preprocessing): segmentation, seasonal trends, outlier analysis, actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick Links
+- 🔗 [Portfolio site](https://DEVIKA-USERNAME.github.io)  
+- 📘 [Resume (PDF)](./resume/Devika_Vinay_resume.pdf)
+- 🧪 [Coding notebooks](./notebooks)
