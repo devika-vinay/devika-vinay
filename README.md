@@ -68,6 +68,7 @@ A Python GUI application for academic record management.
 **Geospatial Analytics:** GeoPandas, Osmium, GTFS  
 **APIs & Automation:** REST APIs, CI/CD  
 **Cloud & DevOps:** Azure, Git, Docker
+
 **Backend Development:** Spring Boot, Microservices Architecture  
 **Tools & Collaboration:** Jira, Confluence, Agile/Scrum  
 **Concepts:** Statistical Analysis, ETL, Data Warehousing, Business Intelligence  
