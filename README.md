@@ -62,15 +62,15 @@ A Python GUI application for academic record management.
 
 ## 🛠️ Tech Stacks & Skills  
 
-**Languages:** Python, SQL, Java, Go, Bash Scripting  
-**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, SPSS, PowerPoint  
-**Data Engineering & Databases:** Postgres, Databricks
-**Geospatial Analytics:** GeoPandas, Osmium, GTFS  
-**APIs & Automation:** REST APIs, CI/CD  
-**Cloud & DevOps:** Azure, Git, Docker
-**Backend Development:** Spring Boot, Microservices Architecture  
-**Tools & Collaboration:** Jira, Confluence, Agile/Scrum  
-**Concepts:** Statistical Analysis, ETL, Data Warehousing, Business Intelligence  
-**Soft Skills:** Project Leadership, Cross-Functional Collaboration, Technical Documentation  
+- **Languages:** Python, SQL, Java, Go, Bash Scripting  
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, SPSS, PowerPoint  
+- **Data Engineering & Databases:** Postgres, Databricks
+- **Geospatial Analytics:** GeoPandas, Osmium, GTFS  
+- **APIs & Automation:** REST APIs, CI/CD  
+- **Cloud & DevOps:** Azure, Git, Docker
+- **Backend Development:** Spring Boot, Microservices Architecture  
+- **Tools & Collaboration:** Jira, Confluence, Agile/Scrum  
+- **Concepts:** Statistical Analysis, ETL, Data Warehousing, Business Intelligence  
+- **Soft Skills:** Project Leadership, Cross-Functional Collaboration, Technical Documentation  
 
 ---
