@@ -1,13 +1,11 @@
-# 👋 Hey there, I’m Devika!  
-_ML • NLP • IoT • Business Analytics • Dashboards_
-
+# Hi there, I’m Devika!  
 ---
 
 ## 📌 Get to Know Me
 - 🧩 I turn messy data into crisp insights and everyday problems into AI-assisted applications.  
 - 🍳 Currently building FlavourFriend, a kitchen buddy that makes cooking smarter (and less of a chore).  
 - 🎯 Dream career: tinker on projects that make an impact beyond KPIs  
-- 💌 Let’s connect: [LinkedIn](https://www.linkedin.com/in/devika-vinayarajan/) | [Email](mailto:devika.leena@gmail.com)
+- 💌 Let’s connect: [LinkedIn](https://www.linkedin.com/in/devika-vinayarajan/) | [Email](mailto:devikavinay14@gmail.com)
 
 ## 🌟 Career Highlights
 - **Big Data Analyst @ Living Stones Foundation**: Built containerized ETL pipeline reduced processing time from >1hr to <15 mins, mentored junior analysts.  
@@ -33,7 +31,7 @@ An AI kitchen sidekick that blends data science with culinary creativity.
 
 ---
 
-### 3. **[Freight Mover: Mobility Platform](https://github.com/devika-vinay/FreightMover)** 🚛  
+### 3. **[Freight Mover: Mobility Platform](https://github.com/devika-vinay/FreightMover)**   
 Led data/AI tasks for a multi-country logistics pilot in Latin America.  
 - Built reproducible geospatial ETL pipelines (GTFS + OSM).  
 - Simulated demand and containerized APIs.  
@@ -41,7 +39,7 @@ Led data/AI tasks for a multi-country logistics pilot in Latin America.
 
 ---
 
-### 4. **[Telecom Customer Insights](https://github.com/devika-vinay/TelecomInsights.git)** 📱  
+### 4. **[Telecom Customer Insights](https://github.com/devika-vinay/TelecomInsights.git)**   
 Analyzed telecom customer data to uncover call-drop patterns and usage trends.  
 - Visualized relationships between **postal code, handset model, and tariff plan**.  
 - Identified high-risk groups experiencing significant call drops.  
@@ -49,7 +47,7 @@ Analyzed telecom customer data to uncover call-drop patterns and usage trends.
 
 ---
 
-### 5. **[Marketing Performance Analytics](https://github.com/devika-vinay/MarketingPerformance.git)** 📊  
+### 5. **[Marketing Performance Analytics](https://github.com/devika-vinay/MarketingPerformance.git)**  
 Assessed campaign effectiveness using a large-scale marketing dataset.  
 - Performance trends across time, device type, and network.  
 - KPI evaluation: CTR, CPM, and spend-to-output efficiency.  
@@ -57,7 +55,7 @@ Assessed campaign effectiveness using a large-scale marketing dataset.
 
 ---
 
-### 6. **[College Administration App](https://github.com/devika-vinay/CollegeAdministration.git)** 🎓  
+### 6. **[College Administration App](https://github.com/devika-vinay/CollegeAdministration.git)**  
 A Python GUI application for academic record management.  
 - Upload student files with validation for missing data.  
 - Auto-calculate GPA & flag college eligibility.  
