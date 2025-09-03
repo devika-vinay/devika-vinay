@@ -6,12 +6,6 @@
 - 🍳 Currently building FlavourFriend, a kitchen buddy that makes cooking smarter (and less of a chore).  
 - 🎯 Dream career: tinker on projects that make an impact beyond KPIs  
 - 💌 Let’s connect: [LinkedIn](https://www.linkedin.com/in/devika-vinayarajan/) | [Email](mailto:devikavinay14@gmail.com)
-
-## 🌟 Career Highlights
-- **Big Data Analyst @ Living Stones Foundation**: Built containerized ETL pipeline reduced processing time from >1hr to <15 mins, mentored junior analysts.  
-- **Software Engineer @ Honeywell**: delivered $4M business value via automated remote updates, $615K revenue via OS expansion, and cut deployment time by 99% with firewall traversal.  
-- **Leader & Volunteer**: Scrum Master guiding Agile teams to 60% efficiency gains; Intl Student Ambassador at Humber; Exec Board at Her Campus Manipal,   
-
 ---
 
 ## 🚀 Featured Projects  
@@ -62,6 +56,11 @@ A Python GUI application for academic record management.
 - Generate reports and restart workflows in a single click.  
 
 ---
+## 🌟 Career Highlights
+- **Big Data Analyst @ Living Stones Foundation**: Built containerized ETL pipeline reduced processing time from >1hr to <15 mins, mentored junior analysts.  
+- **Software Engineer @ Honeywell**: delivered $4M business value via automated remote updates, $615K revenue via OS expansion, and cut deployment time by 99% with firewall traversal.  
+- **Leader & Volunteer**: Scrum Master guiding Agile teams to 60% efficiency gains; Intl Student Ambassador at Humber; Exec Board at Her Campus Manipal,   
+
 
 ## 🛠️ Tech Stacks & Skills  
 
