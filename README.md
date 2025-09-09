@@ -19,7 +19,7 @@ Explored how provincial emission reduction commitments align with Canada’s 205
 
 ### 2. **[FlavourFriend](https://github.com/devika-vinay/FlavourFriend.git) (In Progress)**
 An AI kitchen sidekick that blends data science with culinary creativity.  
-- **Cuisine Fusion:** mixes cuisines using TF-IDF similarity (no odd combos like paneer tiramisu).  
+- **Cuisine Fusion:** mixes cuisines using TF-IDF similarity (no odd combos like tofu tiramisu).  
 - **Lost Recipe Reconstruction:** rebuilds recipes from partial titles, ingredients, or scanned notes.  
 - Roadmap: mood-based cooking recs & OCR for generational recipe cards.  
 
