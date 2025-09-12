@@ -13,7 +13,8 @@
 ### 1. **[Carbon Neutrality Navigator](https://github.com/devika-vinay/CarbonNeutralityNavigator.git)**   
 Explored how provincial emission reduction commitments align with Canada’s 2050 carbon neutrality goal.  
 - Cleaned and analyzed federal + provincial GHG datasets.  
-- Identified sectoral gaps and opportunities for policy alignment.  
+- Identified sectoral gaps and opportunities for policy alignment.
+- Adapting visualizations on Looker: https://lookerstudio.google.com/s/m-srrvUh97Q (In Progress)
 
 ---
 
