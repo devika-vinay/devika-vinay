@@ -27,7 +27,7 @@ Led data/AI tasks for a multi-country logistics pilot in Latin America.
 ---
 
 ### 3. **[Mini Stock Market Analytics Pipeline]()**
-An end-to-end mini project on stock market analytics
+An end-to-end mini project on stock market analytics coded in 3 hours
 - Docker containerization for repeatable queries
 - ETL from prepackaged synthetic CSVs.
 - Data quality check for derived metrics.
