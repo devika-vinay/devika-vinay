@@ -18,23 +18,32 @@ Explored how provincial emission reduction commitments align with Canada’s 205
 
 ---
 
-### 2. **[FlavourFriend](https://github.com/devika-vinay/FlavourFriend.git) (In Progress)**
-An AI kitchen sidekick that blends data science with culinary creativity.  
-- **Cuisine Fusion:** mixes cuisines using TF-IDF similarity (no odd combos like tofu tiramisu).  
-- **Lost Recipe Reconstruction:** rebuilds recipes from partial titles, ingredients, or scanned notes.  
-- Roadmap: mood-based cooking recs & OCR for generational recipe cards.  
-
----
-
-### 3. **[Freight Mover: Mobility Platform](https://github.com/devika-vinay/FreightMover)**   
+### 2. **[Freight Mover: Mobility Platform](https://github.com/devika-vinay/FreightMover)**   
 Led data/AI tasks for a multi-country logistics pilot in Latin America.  
 - Built reproducible geospatial ETL pipelines (GTFS + OSM).  
 - Simulated demand and containerized APIs.  
-- Contributed to scalable routing + emissions tracking infrastructure.  
+- Contributed to scalable routing + emissions tracking infrastructure.
 
 ---
 
-### 4. **[Telecom Customer Insights](https://github.com/devika-vinay/TelecomInsights.git)**   
+### 3. **[Mini Stock Market Analytics Pipeline]()**
+An end-to-end mini project on stock market analytics
+- Docker containerization for repeatable queries
+- ETL from prepackaged synthetic CSVs.
+- Data quality check for derived metrics.
+- Analytics and BI with quick charts and an easy path to Tableau/Looker Studio via SQLite export.
+
+---
+
+### 4. **[FlavourFriend](https://github.com/devika-vinay/FlavourFriend.git) (In Progress)**
+An AI kitchen sidekick that blends data science with culinary creativity.  
+- **Cuisine Fusion:** mixes cuisines using TF-IDF similarity (no odd combos like tofu tiramisu).  
+- **Lost Recipe Reconstruction:** rebuilds recipes from partial titles, ingredients, or scanned notes.  
+- Roadmap: mood-based cooking recs & OCR for generational recipe cards.
+
+---
+
+### 5. **[Telecom Customer Insights](https://github.com/devika-vinay/TelecomInsights.git)**   
 Analyzed telecom customer data to uncover call-drop patterns and usage trends.  
 - Visualized relationships between **postal code, handset model, and tariff plan**.  
 - Identified high-risk groups experiencing significant call drops.  
@@ -42,7 +51,7 @@ Analyzed telecom customer data to uncover call-drop patterns and usage trends.
 
 ---
 
-### 5. **[Marketing Performance Analytics](https://github.com/devika-vinay/MarketingPerformance.git)**  
+### 6. **[Marketing Performance Analytics](https://github.com/devika-vinay/MarketingPerformance.git)**  
 Assessed campaign effectiveness using a large-scale marketing dataset.  
 - Performance trends across time, device type, and network.  
 - KPI evaluation: CTR, CPM, and spend-to-output efficiency.  
@@ -50,7 +59,7 @@ Assessed campaign effectiveness using a large-scale marketing dataset.
 
 ---
 
-### 6. **[College Administration App](https://github.com/devika-vinay/CollegeAdministration.git)**  
+### 7. **[College Administration App](https://github.com/devika-vinay/CollegeAdministration.git)**  
 A Python GUI application for academic record management.  
 - Upload student files with validation for missing data.  
 - Auto-calculate GPA & flag college eligibility.  
