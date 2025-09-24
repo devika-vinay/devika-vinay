@@ -26,7 +26,7 @@ Led data/AI tasks for a multi-country logistics pilot in Latin America.
 
 ---
 
-### 3. **[Mini Stock Market Analytics Pipeline]()**
+### 3. **[Mini Stock Market Analytics Pipeline](https://mini-stock-market-pipeline.streamlit.app/)**
 An end-to-end mini project on stock market analytics coded in 3 hours
 - Docker containerization for repeatable queries
 - ETL from prepackaged synthetic CSVs.
