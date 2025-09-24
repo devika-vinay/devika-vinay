@@ -26,12 +26,13 @@ Led data/AI tasks for a multi-country logistics pilot in Latin America.
 
 ---
 
-### 3. **[Mini Stock Market Analytics Pipeline](https://mini-stock-market-pipeline.streamlit.app/)**
+### 3. **[Mini Stock Market Analytics Pipeline](https://github.com/devika-vinay/Mini-Stock-Market-Pipeline)**
 An end-to-end mini project on stock market analytics coded in 3 hours
 - Docker containerization for repeatable queries
 - ETL from prepackaged synthetic CSVs.
 - Data quality check for derived metrics.
 - Analytics and BI with quick charts and an easy path to Tableau/Looker Studio via SQLite export.
+- [Deployed via streamlit.](https://mini-stock-market-pipeline.streamlit.app/)
 
 ---
 
