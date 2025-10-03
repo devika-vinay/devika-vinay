@@ -10,7 +10,15 @@
 
 ## 🚀 Featured Projects  
 
-### 1. **[Carbon Neutrality Navigator](https://github.com/devika-vinay/CarbonNeutralityNavigator.git)**   
+### 1. **[Enron eDiscovery Pipeline](https://github.com/devika-vinay/Enron-Discovery)**
+A lightweight, end-to-end eDiscovery pipeline that ingests the Enron emails CSV, preserves raw evidence, normalizes, loads into a queryable store, and serves a simple Streamlit UI for search & review.
+- ETL pipeline: Collect -> Parse -> Normalize -> Load → Search UI
+- Chain of custody: SHA-256 fingerprints + JSONL audit log
+- Search UI: Streamlit app with full-text search, sender & date filters, CSV export
+  
+---
+
+### 2. **[Carbon Neutrality Navigator](https://github.com/devika-vinay/CarbonNeutralityNavigator.git)**   
 Explored how provincial emission reduction commitments align with Canada’s 2050 carbon neutrality goal.  
 - Cleaned and analyzed federal + provincial GHG datasets.  
 - Identified sectoral gaps and opportunities for policy alignment.
@@ -18,7 +26,7 @@ Explored how provincial emission reduction commitments align with Canada’s 205
 
 ---
 
-### 2. **[Freight Mover: Mobility Platform](https://github.com/devika-vinay/FreightMover)**   
+### 3. **[Freight Mover: Mobility Platform](https://github.com/devika-vinay/FreightMover)**   
 Led data/AI tasks for a multi-country logistics pilot in Latin America.  
 - Built reproducible geospatial ETL pipelines (GTFS + OSM).  
 - Simulated demand and containerized APIs.  
@@ -26,7 +34,7 @@ Led data/AI tasks for a multi-country logistics pilot in Latin America.
 
 ---
 
-### 3. **[Mini Stock Market Analytics Pipeline](https://github.com/devika-vinay/Mini-Stock-Market-Pipeline)**
+### 4. **[Mini Stock Market Analytics Pipeline](https://github.com/devika-vinay/Mini-Stock-Market-Pipeline)**
 An end-to-end mini project on stock market analytics coded in 3 hours
 - Docker containerization for repeatable queries
 - ETL from prepackaged synthetic CSVs.
@@ -36,7 +44,7 @@ An end-to-end mini project on stock market analytics coded in 3 hours
 
 ---
 
-### 4. **[FlavourFriend](https://github.com/devika-vinay/FlavourFriend.git) (In Progress)**
+### 5. **[FlavourFriend](https://github.com/devika-vinay/FlavourFriend.git) (In Progress)**
 An AI kitchen sidekick that blends data science with culinary creativity.  
 - **Cuisine Fusion:** mixes cuisines using TF-IDF similarity (no odd combos like tofu tiramisu).  
 - **Lost Recipe Reconstruction:** rebuilds recipes from partial titles, ingredients, or scanned notes.  
@@ -44,7 +52,7 @@ An AI kitchen sidekick that blends data science with culinary creativity.
 
 ---
 
-### 5. **[Telecom Customer Insights](https://github.com/devika-vinay/TelecomInsights.git)**   
+### 6. **[Telecom Customer Insights](https://github.com/devika-vinay/TelecomInsights.git)**   
 Analyzed telecom customer data to uncover call-drop patterns and usage trends.  
 - Visualized relationships between **postal code, handset model, and tariff plan**.  
 - Identified high-risk groups experiencing significant call drops.  
@@ -52,19 +60,11 @@ Analyzed telecom customer data to uncover call-drop patterns and usage trends.
 
 ---
 
-### 6. **[Marketing Performance Analytics](https://github.com/devika-vinay/MarketingPerformance.git)**  
+### 7. **[Marketing Performance Analytics](https://github.com/devika-vinay/MarketingPerformance.git)**  
 Assessed campaign effectiveness using a large-scale marketing dataset.  
 - Performance trends across time, device type, and network.  
 - KPI evaluation: CTR, CPM, and spend-to-output efficiency.  
 - Provided recommendations for cost-efficient channel planning.  
-
----
-
-### 7. **[College Administration App](https://github.com/devika-vinay/CollegeAdministration.git)**  
-A Python GUI application for academic record management.  
-- Upload student files with validation for missing data.  
-- Auto-calculate GPA & flag college eligibility.  
-- Generate reports and restart workflows in a single click.  
 
 ---
 ## 🌟 Career Highlights
