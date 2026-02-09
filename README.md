@@ -10,6 +10,11 @@
 
 ## 🚀 Featured Projects  
 
+### 1. **[PathBuilder AI by GenEQ](https://github.com/devika-vinay/GenEQ)**
+PathBuilder AI is a workforce navigation prototype that helps users assess their AI job disruption risk, discover personalized upskilling pathways, and connect with volunteer mentors in their field. Built with an equity-first design, it supports workers who face structural barriers in the AI economy.
+  
+---
+
 ### 1. **[Enron eDiscovery Pipeline](https://github.com/devika-vinay/Enron-Discovery)**
 A lightweight, end-to-end eDiscovery pipeline that ingests the Enron emails CSV, preserves raw evidence, normalizes, loads into a queryable store, and serves a simple Streamlit UI for search & review.
 - ETL pipeline: Collect -> Parse -> Normalize -> Load → Search UI
